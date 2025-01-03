@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644614992645",
+    "project_id": "recipes-cda7c",
+    "storage_bucket": "recipes-cda7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644614992645:android:14565d333d006b0600fd6c",
+        "android_client_info": {
+          "package_name": "com.example.akif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxpIT7WijLRse6lmHyotohq0RdXh9nOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644614992645:android:18bcea2e39afcc5700fd6c",
+        "android_client_info": {
+          "package_name": "com.example.homework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxpIT7WijLRse6lmHyotohq0RdXh9nOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
